@@ -1,1 +1,1 @@
-# os-for-second-course-student
+c++ linux
